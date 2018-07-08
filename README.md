@@ -1,6 +1,6 @@
 # Simple mental arithmetic
 
-(https://github.com/andonary/redux-mental-arithmetic.git)(https://github.com/andonary/redux-mental-arithmetic.git)
+https://github.com/andonary/redux-mental-arithmetic.git
 
 ## View this :
 
